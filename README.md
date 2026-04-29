@@ -32,13 +32,6 @@ For each level N in {2, 3, 4, 5}:
 
 Fixed denominators: L2 = 13 questions, L3 = 11, L4 = 10, L5 = 6.
 
-## Example assessment
-
-The file `PCMM_Example_ArchA.xlsx` contains a completed assessment of 
-[Serverless Coffee](https://github.com/aws-samples/serverless-coffee), 
-an AWS Step Functions orchestration-based architecture, used as one of 
-the two development architectures during model construction.
-
 ## Citation
 
 If you use the PCMM in your research or practice, please cite:
