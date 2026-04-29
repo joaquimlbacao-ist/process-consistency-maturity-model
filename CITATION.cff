@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "Process Consistency Maturity Model (PCMM)"
+message: "If you use this model, please cite it as below."
+type: software
+authors:
+  - family-names: "Luz Bação"
+    given-names: "Joaquim"
+    affiliation: "Instituto Superior Técnico, Universidade de Lisboa"
+  - family-names: "Proença Duarte Guerreiro"
+    given-names: "Sérgio Luís"
+    affiliation: "Instituto Superior Técnico, Universidade de Lisboa"
+repository-code: "https://github.com/joaquimlbacao-ist/process-consistency-maturity-model"
+url: "https://github.com/joaquimlbacao-ist/process-consistency-maturity-model"
+abstract: >
+  The PCMM is a maturity model for assessing process consistency in
+  event-driven microservice architectures. It evaluates seven capability
+  categories across five maturity levels using 40 binary assessment questions.
+keywords:
+  - maturity model
+  - microservices
+  - event-driven architecture
+  - process consistency
+  - software architecture
+license: CC-BY-4.0
+date-released: "2026-04-29"
