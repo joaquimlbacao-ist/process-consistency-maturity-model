@@ -36,9 +36,10 @@ Fixed denominators: L2 = 13 questions, L3 = 11, L4 = 10, L5 = 6.
 
 If you use the PCMM in your research or practice, please cite:
 
-[Your name]. (2025). *Process Consistency Maturity Model for Event-Driven 
-Microservice Architectures*. MSc thesis, Instituto Superior Técnico, 
-Universidade de Lisboa. [link once published]
+Luz Bação, Joaquim (2025). Process Consistency Maturity Model for Event-Driven 
+Microservice Architectures. MSc thesis, Instituto Superior Técnico, 
+Universidade de Lisboa. Supervised by Guerreiro, Sérgio
+https://github.com/joaquimlbacao-ist/process-consistency-maturity-model
 
 ## License
 
